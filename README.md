@@ -18,6 +18,3 @@ A simple web-based inventory management system built using **Java**, **Servlets*
 - JDBC
 - HTML/CSS (Basic for UI)
 - MySQL (or any relational database)
-
-## 📂 Project Structure
-
